@@ -8,6 +8,7 @@ import androidx.compose.material.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.raana.multipatformapp.App
 import com.raana.multipatformapp.Greeting
 
 class MainActivity : ComponentActivity() {
@@ -15,12 +16,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             MyApplicationTheme {
-                Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colors.background
-                ) {
-                    GreetingView(Greeting().greet())
-                }
+                App()
             }
         }
     }

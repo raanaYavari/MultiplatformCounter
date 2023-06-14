@@ -5,7 +5,7 @@ struct ContentView: View {
 	let greet = Greeting().greet()
 
 	var body: some View {
-		Text(greet)
+		ComposeView()
 	}
 }
 
@@ -14,3 +14,4 @@ struct ContentView_Previews: PreviewProvider {
 		ContentView()
 	}
 }
+ 
