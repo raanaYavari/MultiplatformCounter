@@ -1,0 +1,16 @@
+#Tue Jun 13 11:59:37 IRST 2023
+base.0=/Users/javid/MultiPatformApp/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/javid/MultiPatformApp/androidApp/build/intermediates/dex/debug/mergeLibDexDebug/11/classes.dex
+base.2=/Users/javid/MultiPatformApp/androidApp/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.3=/Users/javid/MultiPatformApp/androidApp/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
+base.4=/Users/javid/MultiPatformApp/androidApp/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+path.0=classes.dex
+path.1=11/classes.dex
+path.2=0/classes.dex
+path.3=13/classes.dex
+path.4=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex

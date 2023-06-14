@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.raana.multipatformapp.shared-merged_res-37:/drawable/notification_icon_background.xml",
+        "source": "com.raana.multipatformapp.shared-core-1.9.0-11:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.raana.multipatformapp.shared-merged_res-37:/drawable/notification_bg.xml",
+        "source": "com.raana.multipatformapp.shared-core-1.9.0-11:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.raana.multipatformapp.shared-merged_res-37:/drawable/notification_bg_low.xml",
+        "source": "com.raana.multipatformapp.shared-core-1.9.0-11:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.raana.multipatformapp.shared-merged_res-37:/drawable/notification_tile_bg.xml",
+        "source": "com.raana.multipatformapp.shared-core-1.9.0-11:/drawable/notification_tile_bg.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.raana.multipatformapp.shared-merged_res-37:/layout/custom_dialog.xml",
+        "source": "com.raana.multipatformapp.shared-core-1.9.0-11:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.raana.multipatformapp.shared-merged_res-37:/layout/notification_template_part_time.xml",
+        "source": "com.raana.multipatformapp.shared-core-1.9.0-11:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.raana.multipatformapp.shared-merged_res-37:/layout/notification_template_part_chronometer.xml",
+        "source": "com.raana.multipatformapp.shared-core-1.9.0-11:/layout/notification_template_part_chronometer.xml"
+    }
+]
