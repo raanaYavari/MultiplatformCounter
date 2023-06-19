@@ -1,1 +1,1 @@
-com.raana.multipatformapp
+com.raana.multiplatformapp

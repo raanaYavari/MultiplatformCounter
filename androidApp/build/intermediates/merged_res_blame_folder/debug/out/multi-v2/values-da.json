@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.raana.multipatformapp.android.androidApp-mergeDebugResources-40:/values-da/values-da.xml",
+            "outputFile": "com.raana.multiplatformapp.android.androidApp-mergeDebugResources-41:/values-da/values-da.xml",
             "map": [
                 {
-                    "source": "/Users/javid/.gradle/caches/transforms-3/4f5c420bf2f48c72a855e12337c22d2b/transformed/core-1.9.0/res/values-da/values-da.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "1255",
-                        "endColumns": "100",
-                        "endOffsets": "1351"
-                    }
-                },
-                {
-                    "source": "/Users/javid/.gradle/caches/transforms-3/d8a4e3f09075f845e0e8d869b8fc73df/transformed/ui-1.4.3/res/values-da/values-da.xml",
+                    "source": "/Users/javid/.gradle/caches/transforms-3/36f70f6dbb843bf02d0fdf662c1ccde4/transformed/ui-1.4.3/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,197,277,372,471,553,630,719,808,890,955,1020,1101,1185,1356,1434,1501",
                         "endColumns": "91,79,94,98,81,76,88,88,81,64,64,80,83,69,77,66,119",
                         "endOffsets": "192,272,367,466,548,625,714,803,885,950,1015,1096,1180,1250,1429,1496,1616"
+                    }
+                },
+                {
+                    "source": "/Users/javid/.gradle/caches/transforms-3/918d8170f406ebbc6ce251e8c3a30354/transformed/core-1.9.0/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1255",
+                        "endColumns": "100",
+                        "endOffsets": "1351"
                     }
                 }
             ]

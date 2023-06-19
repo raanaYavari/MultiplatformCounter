@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml:2:13-83
-INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml:2:13-83
-INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml:2:13-83
+ADDED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml:2:13-83
+INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml:2:13-83
+INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml:2:13-83
 	package
-		INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
-		ADDED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml:2:13-83
-		INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
+		INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
+		ADDED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml:2:13-83
+		INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
 	xmlns:android
-		ADDED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml:2:23-81
+		ADDED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml:2:23-81
 uses-sdk
-INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml reason: use-sdk injection requested
-INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
-INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
-INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
-INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
+INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml reason: use-sdk injection requested
+INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
+INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
+INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
+INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
 	android:targetSdkVersion
-		INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
-		ADDED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
-		INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
+		INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
+		ADDED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
+		INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
 	android:minSdkVersion
-		INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
-		ADDED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
-		INJECTED from /Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
+		INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
+		ADDED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
+		INJECTED from /Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml

@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.raana.multipatformapp.android.androidApp-mergeDebugResources-40:/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "com.raana.multiplatformapp.android.androidApp-mergeDebugResources-41:/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "/Users/javid/.gradle/caches/transforms-3/4f5c420bf2f48c72a855e12337c22d2b/transformed/core-1.9.0/res/values-zh-rTW/values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "1164",
-                        "endColumns": "100",
-                        "endOffsets": "1260"
-                    }
-                },
-                {
-                    "source": "/Users/javid/.gradle/caches/transforms-3/d8a4e3f09075f845e0e8d869b8fc73df/transformed/ui-1.4.3/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/Users/javid/.gradle/caches/transforms-3/36f70f6dbb843bf02d0fdf662c1ccde4/transformed/ui-1.4.3/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,182,258,345,436,514,588,665,743,818,883,948,1021,1096,1265,1339,1407",
                         "endColumns": "76,75,86,90,77,73,76,77,74,64,64,72,74,67,73,67,115",
                         "endOffsets": "177,253,340,431,509,583,660,738,813,878,943,1016,1091,1159,1334,1402,1518"
+                    }
+                },
+                {
+                    "source": "/Users/javid/.gradle/caches/transforms-3/918d8170f406ebbc6ce251e8c3a30354/transformed/core-1.9.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1164",
+                        "endColumns": "100",
+                        "endOffsets": "1260"
                     }
                 }
             ]

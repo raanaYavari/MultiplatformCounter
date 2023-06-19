@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.raana.multipatformapp" >
+3    package="com.raana.multiplatformapp" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->/Users/javid/MultiPatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7517590506822480932.xml
+5-->/Users/javid/MultiPlatformApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11370504808582980848.xml
 6
 7</manifest>

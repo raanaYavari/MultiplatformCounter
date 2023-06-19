@@ -15,6 +15,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MultiPlatformApp"
+rootProject.name = "multiplatformapp"
 include(":androidApp")
 include(":shared")

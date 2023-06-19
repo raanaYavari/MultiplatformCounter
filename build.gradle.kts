@@ -1,6 +1,8 @@
 buildscript {
+    val kotlinVersion: String by project
     dependencies {
         classpath("com.android.tools.build:gradle:7.6.0")
+        classpath("org.jetbrains.kotlin:kotlin-serialization:${kotlinVersion}")
     }
 }
 plugins {

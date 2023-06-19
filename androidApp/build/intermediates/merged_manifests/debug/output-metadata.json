@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.raana.multipatformapp.android",
+  "applicationId": "com.raana.multiplatformapp.android",
   "variantName": "debug",
   "elements": [
     {

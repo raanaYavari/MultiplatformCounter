@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace = "com.raana.multipatformapp.android"
+    namespace = "com.raana.multiplatformapp.android"
     compileSdk = 33
     defaultConfig {
-        applicationId = "com.raana.multipatformapp.android"
+        applicationId = "com.raana.multiplatformapp.android"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
